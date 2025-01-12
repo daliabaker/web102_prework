@@ -20,6 +20,10 @@ The following **required** functionality is completed:
 
 
 
+https://github.com/user-attachments/assets/9fe00c3e-84cd-4e8f-9f27-00eb5139d98e
+
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
